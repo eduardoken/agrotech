@@ -1,0 +1,16 @@
+[
+    {
+        "talhao": "talhão 01",
+        "area_ha": 2.0,
+        "perda_percentual": 2.0,
+        "toneladas_perdidas": 4.0,
+        "prejuizo_estimado_brl": 40.0
+    },
+    {
+        "talhao": "talhão 02",
+        "area_ha": 10.0,
+        "perda_percentual": 5.0,
+        "toneladas_perdidas": 50.0,
+        "prejuizo_estimado_brl": 500.0
+    }
+]

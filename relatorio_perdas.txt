@@ -1,0 +1,14 @@
+=== RELATÓRIO DE MONITORAMENTO DE PERDAS DA CANA ===
+
+Talhão: talhão 01
+Área (ha): 2.00
+Perda (%): 2.00%
+Cana Perdida: 4.00 toneladas
+Prejuízo Estimado: R$ 40.00
+--------------------------------------------------
+Talhão: talhão 02
+Área (ha): 10.00
+Perda (%): 5.00%
+Cana Perdida: 50.00 toneladas
+Prejuízo Estimado: R$ 500.00
+--------------------------------------------------
